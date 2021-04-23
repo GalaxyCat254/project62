@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color:darkmagenta;
+    text-decoration-color: aqua;
+    color: chartreuse;
+}
+
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#myCarousel {
+    background-color: cyan;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:  brown;
+    font-size: 20px;
+}
+
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+
