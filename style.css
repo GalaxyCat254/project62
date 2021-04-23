@@ -21,6 +21,7 @@ img:hover {
 
 #myCarousel img {
     height: 300px;
+    width: 300px;
     margin-top: 35px;
 }
 
